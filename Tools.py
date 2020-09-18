@@ -1,9 +1,5 @@
-#Coded By Zidan-ID\King Mr_Z17
-#YouTube Mr_Z17
-#Vortex Indonesia
 import os,sys,time
 
- # SILAHKAN COSTUMISASI SENDIRI YA BOSQ #
 
 def main():
     time.sleep(1)
